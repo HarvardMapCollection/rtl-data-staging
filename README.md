@@ -1,1 +1,1 @@
-Belle write collection landing page description
+Belle write collection landing page description for HGL
