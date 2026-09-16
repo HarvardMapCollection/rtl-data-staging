@@ -1,4 +1,5 @@
 # Project Data Overview
+data and readme by Hannah Adler
 
 In the `csv` folder, you will find crop data for the region of interest, including crop type and area (`crop_data.csv`). You will also find the area calculations for each wetland from the 1911 polygon layer (`wetland_area.csv`).
 
